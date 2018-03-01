@@ -1,0 +1,43 @@
+.card {
+  width: 300px;
+  background-color: #da5c6a;
+  box-shadow: 5px 5px 5px #88889a;
+}
+
+
+.border {
+  border: medium ridge #c2c7d0;
+  padding: 0 8px 05px 8px;
+  border-radius: 15px;
+}
+
+
+.image {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+
+.info {
+  text-align: left;
+  font-size: 0.9em;
+  margin-top: 8px;
+  background-color: #b794b9;
+}
+
+
+.fact {
+  font-style: italic;
+}
+
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+.labels {
+  font-weight: bold;
+}
